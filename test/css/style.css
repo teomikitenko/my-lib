@@ -1,0 +1,28 @@
+.head{
+    margin-top: 40px;
+}
+.modalki{
+    margin-top: 50px;
+}
+.forms{
+    margin-top: 40px;
+    justify-content: center;
+
+    
+   
+}
+.cio{
+    border: 2px solid rgb(210, 215, 211, 1);
+    width: 50%;
+    
+}
+form{
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+
+}
+input{
+    height: 26px;
+    width: 150px;
+}
